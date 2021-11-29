@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👩‍💻 I’m currently working full-time as IT Support Analyst at VOX TECNOLOGIA.
-- 🌱 Learning more about and studying: Software Quality Assurance, Scrum and Automation Tests. 
+- 👩‍💻 I’m currently working full-time as Software Quality Assurance QA at Indra Company.
+- 🌱 Learning more about and studying: Software Engeenering/Quality Assurance and Tests Automation.
 
  <div>
   <a href="https://github.com/Simonepontestech">
