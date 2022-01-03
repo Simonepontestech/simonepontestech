@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💻 I’m currently working full-time as Software Quality Assurance QA at Indra Company.
+- 👩‍💻 I’m currently working full-time as Software Quality Assurance QA Analyst at Indra Company.
 - 🌱 Learning more about and studying: Software Engeenering/Quality Assurance and Tests Automation.
 
  <div>
