@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👩‍💻 I’m currently working full-time as Software Quality Assurance QA Analyst at Indra Company.
-- 🌱 Learning more about and studying: Software Engeenering/Quality Assurance and Tests Automation.
+- 🌱 Learning more about and studying: Software Engeenering/Quality Assurance and Automation Tests.
 
  <div>
   <a href="https://github.com/Simonepontestech">
